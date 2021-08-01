@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://responsive-recipe-page.vercel.app">
+    <a href="https://responsive-mygallery.vercel.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/ChigorinDenis/responsive-recipe-page">
+    <a href="https://github.com/ChigorinDenis/responsive-mygallery">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/ChigorinDenis/responsive-recipe-page/blob/main/src/img/screenshot.png)
+![screenshot](https://github.com/ChigorinDenis/responsive-mygallery/blob/main/src/img/screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
